@@ -39,7 +39,7 @@ Either way, You will obtain this :
 
 Like most Go packages, the installation is extremely simple :
 ```
-$ go get -u github.com/eleby/pixelizer
+$ go get -u github.com/eleby/frongo
 ```
 
 And now you can use Frongo in your project. 
